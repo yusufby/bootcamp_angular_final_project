@@ -1,0 +1,72 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "description": "We are looking for a skilled software engineer with experience in web development.",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "React"
+      ],
+      "salary": "75000 USD",
+      "location": "New York, USA"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "description": "We are seeking a data analyst to analyze and interpret data from various sources.",
+      "skills": [
+        "SQL",
+        "Python",
+        "Data Visualization"
+      ],
+      "salary": "60000 USD",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": 3,
+      "title": "Graphic Designer",
+      "description": "We need a creative graphic designer to design visually appealing marketing materials.",
+      "skills": [
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Typography"
+      ],
+      "salary": "55000 USD",
+      "location": "London, UK"
+    },
+    {
+      "id": 4,
+      "title": "Marketing Manager",
+      "description": "We are hiring a marketing manager to develop and execute marketing strategies.",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Social Media Marketing"
+      ],
+      "salary": "70000 USD",
+      "location": "Toronto, Canada"
+    }
+  ],
+  "user_profiles": [
+    {
+      "name": "q",
+      "email": "qw",
+      "location": "wq",
+      "skills": "qw",
+      "salary": 121,
+      "id": 7
+    },
+    {
+      "name": "s",
+      "email": "s",
+      "location": "s",
+      "skills": "s",
+      "salary": 2,
+      "id": 8
+    }
+  ]
+}
